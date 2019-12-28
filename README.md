@@ -8,6 +8,10 @@ A weboldal egy egészséges és kölcsönös barátság kialakulása közben sz�
 # Demo verzió
 A demo verzió ismeretlen ideig lesz elérhető, ha jóval a publikáció után tévedtél ide, viszont a demo link nem elérhető, ez esetben már nem is lesz. Telepítési útmutatót lentebb találhatsz, ahol a saját fejlesztői környezetedben működésre birhatod a weboldalt, és a dependenciáit.
 
+# Dependenciák
+- PHP 5.6
+- Node v10.16.0 (vagy frissebb)
+
 # Telepítési útmutató
 - npm install
 - npm run watch
