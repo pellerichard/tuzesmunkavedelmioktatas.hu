@@ -6,7 +6,7 @@ A weboldal a PHP 5.6-os verzióját használja, illetve Laravel 5.4-et, mint API
 A weboldal egy egészséges és kölcsönös barátság kialakulása közben született, ahol kölcsönös bizalommal és tisztelettel fejlesztettem, ámbár ez a kapcsolat megszakadt, és megromlott, az illető akinek a weboldalt fejlesztettem (nevet nem említek) inkorrekt lett a vége felé, és nem teljesítette a kettőnk megállapodásában meghatározott követelményeket. A kódbázis alatt semmilyen license nincs, sem szerződés, semmilyen legális formában nem létezik, eszmei értéke volt egészen a publikálásának napjáig.
 
 # Demo verzió
-A demo verzió ismeretlen ideig lesz elérhető, ha jóval a publikáció után tévedtél ide, viszont a demo link nem elérhető, ez esetben már nem is lesz. Telepítési útmutatót lentebb találhatsz, ahol a saját fejlesztői környezetedben működésre birhatod a weboldalt, és a dependenciáit.
+A demo verzió ismeretlen ideig lesz elérhető, ha jóval a publikáció után tévedtél ide, viszont a demo link nem elérhető, ez esetben már nem is lesz. Telepítési útmutatót lentebb találhatsz, ahol a saját fejlesztői környezetedben működésre birhatod a weboldalt, és a dependenciáit. A demo verzió igen sok hibát tartalmaz, mivel olyan esetek előfordulnak teszt során, ami élesben például soha nem fordulhatott elő, lásd: összes teszt törlése, nincs egy darab cég se, ecetera, így előfordulhat olyan eset hogy nincs lekezelve kód szinten else ág adott lekérdezésnél.
 
 # Dependenciák
 - PHP 5.6
