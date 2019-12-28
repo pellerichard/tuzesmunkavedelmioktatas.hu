@@ -9,6 +9,8 @@ A weboldal egy egészséges és kölcsönös barátság kialakulása közben sz�
 A demo verzió ismeretlen ideig lesz elérhető, ha jóval a publikáció után tévedtél ide, viszont a demo link nem elérhető, ez esetben már nem is lesz. Telepítési útmutatót lentebb találhatsz, ahol a saját fejlesztői környezetedben működésre birhatod a weboldalt, és a dependenciáit.
 
 # Telepítési útmutató
-Hamarosan
+- npm install
+- npm run watch
+- php artisan serve
 
 > A weboldal demo verziója elérhető az alábbi linken: [Kattints ide](https://tuzesmunkavedelmioktatas.demo.pellerichard.hu)
