@@ -1,0 +1,94 @@
+[v-cloak] {
+    display: none;
+}
+
+.list-hotfix {
+    flex: 1 1 auto !important;
+    overflow: hidden;
+}
+
+.round-border {
+    border-radius: 15px !important;
+}
+
+.v-btn {
+    margin: 6px 0px !important;
+}
+
+.background {
+    background: url('/images/bg.jpg') !important;
+    background-size:cover !important;
+}
+
+.module-header {
+    color: #fff;
+    text-shadow: 2px 2px 2px rgba(0,0,0,.5);
+}
+
+.center-v-toolbar {
+    margin: auto !important;
+    width: 50% !important;
+    padding: 10px !important;
+}
+
+.logo {
+    height: 200px;
+    width: 200px;
+}
+
+.text-shadow {
+    text-shadow: 2px 2px 2px rgba(0,0,0,.5);
+}
+
+.no-overflow {
+    overflow: visible !important;
+}
+
+.user-v-card {
+    background-color: #1976d2 !important;
+}
+
+.inline-block {
+    display: inline-block !important;
+}
+
+.v-title-height {
+    height: auto !important;
+}
+
+.combobox-permission {
+    font-size: 0.8em !important;
+    background: #DB4437 !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.combobox {
+    font-size: 0.8em !important;
+    background: #74baff !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.normal-font-size {
+    font-size: 1.0em !important;
+}
+
+.combobox-edit {
+    font-size: 0.75em !important;
+}
+
+.dynamic-size {
+    flex: 0 1 auto !important;
+}
+
+.v-input__slot {
+    border-radius: 15px !important;
+}
+
+.v-text-field--box.v-text-field--single-line input, .v-text-field--outline.v-text-field--single-line input {
+    margin-top: -3px !important;
+}
+
+.search-button {
+    min-height: 56px !important;
+    margin-top: -2px !important;
+}
