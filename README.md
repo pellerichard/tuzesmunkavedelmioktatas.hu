@@ -11,6 +11,7 @@ A demo verzió ismeretlen ideig lesz elérhető, ha jóval a publikáció után 
 # Dependenciák
 - PHP 5.6
 - Node v10.16.0 (vagy frissebb)
+- Node Package Manager 6.9.0 (vagy frissebb)
 
 # Telepítési útmutató
 - npm install
