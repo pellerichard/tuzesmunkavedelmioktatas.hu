@@ -8,6 +8,10 @@ A weboldal egy egészséges és kölcsönös barátság kialakulása közben sz�
 # Demo verzió
 A demo verzió ismeretlen ideig lesz elérhető, ha jóval a publikáció után tévedtél ide, viszont a demo link nem elérhető, ez esetben már nem is lesz. Telepítési útmutatót lentebb találhatsz, ahol a saját fejlesztői környezetedben működésre birhatod a weboldalt, és a dependenciáit. A demo verzió igen sok hibát tartalmaz, mivel olyan esetek előfordulnak teszt során, ami élesben például soha nem fordulhatott elő, lásd: összes teszt törlése, nincs egy darab cég se, ecetera, így előfordulhat olyan eset hogy nincs lekezelve kód szinten else ág adott lekérdezésnél.
 
+Admin felhasználó login:
+Felhasználónév: admin@example.com
+Jelszó: admin
+
 # Dependenciák
 - PHP 5.6
 - Node v10.16.0 (vagy frissebb)
