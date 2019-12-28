@@ -16,6 +16,18 @@ A demo verzió ismeretlen ideig lesz elérhető, ha jóval a publikáció után 
 # Telepítési útmutató
 - npm install
 - npm run watch
+- php artisan key:generate
 - php artisan serve
+
+# Levelező szerver beállítása
+.env fájlba adjuk meg a levelező szerverünk beállításait.
+```
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=587
+MAIL_USERNAME=Felhasznalonev
+MAIL_PASSWORD=Jelszo
+MAIL_ENCRYPTION=tls
+```
 
 > A weboldal demo verziója elérhető az alábbi linken: [Kattints ide](https://tuzesmunkavedelmioktatas.demo.pellerichard.hu)
