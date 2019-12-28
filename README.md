@@ -12,10 +12,12 @@ A demo verzió ismeretlen ideig lesz elérhető, ha jóval a publikáció után 
 - PHP 5.6
 - Node v10.16.0 (vagy frissebb)
 - Node Package Manager 6.9.0 (vagy frissebb)
+- Composer v1.9.0
 
 # Telepítési útmutató
 - npm install
 - npm run watch
+- composer install
 - php artisan key:generate
 - php artisan serve
 
